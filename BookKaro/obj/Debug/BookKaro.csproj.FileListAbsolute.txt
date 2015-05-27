@@ -1,0 +1,24 @@
+Z:\techwitz work\BookKaro\BookKaro\bin\BookKaro.dll
+Z:\techwitz work\BookKaro\BookKaro\bin\BookKaro.pdb
+Z:\techwitz work\BookKaro\BookKaro\obj\Debug\BookKaro.dll
+Z:\techwitz work\BookKaro\BookKaro\obj\Debug\BookKaro.pdb
+I:\BookKaro\BookKaro\bin\BookKaro.dll.config
+I:\BookKaro\BookKaro\bin\BookKaro.dll
+I:\BookKaro\BookKaro\bin\BookKaro.pdb
+I:\BookKaro\BookKaro\obj\Debug\BookKaro.csprojResolveAssemblyReference.cache
+I:\BookKaro\BookKaro\obj\Debug\BookKaro.dll
+I:\BookKaro\BookKaro\obj\Debug\BookKaro.pdb
+D:\Techwitz\BookKaro\BookKaro\bin\BookKaro.dll.config
+D:\Techwitz\BookKaro\BookKaro\bin\BookKaro.dll
+D:\Techwitz\BookKaro\BookKaro\bin\BookKaro.pdb
+D:\Techwitz\BookKaro\BookKaro\obj\Debug\BookKaro.csprojResolveAssemblyReference.cache
+D:\Techwitz\BookKaro\BookKaro\obj\Debug\BookKaro.dll
+D:\Techwitz\BookKaro\BookKaro\obj\Debug\BookKaro.pdb
+D:\Techwitz\BookKaro\BookKaro\bin\aspsnippets.facebookapi.dll
+Z:\BookKaro\BookKaro\bin\BookKaro.dll.config
+Z:\BookKaro\BookKaro\bin\BookKaro.dll
+Z:\BookKaro\BookKaro\bin\BookKaro.pdb
+Z:\BookKaro\BookKaro\bin\aspsnippets.facebookapi.dll
+Z:\BookKaro\BookKaro\obj\Debug\BookKaro.csprojResolveAssemblyReference.cache
+Z:\BookKaro\BookKaro\obj\Debug\BookKaro.dll
+Z:\BookKaro\BookKaro\obj\Debug\BookKaro.pdb
